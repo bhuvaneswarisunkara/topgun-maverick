@@ -1,0 +1,7 @@
+maverick= "I feel the need ..."
+
+goose= "... the need for speed!"
+
+topgun=maverick+goose
+
+print(topgun)
